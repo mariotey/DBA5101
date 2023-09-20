@@ -8,4 +8,4 @@ With a better understanding of the data, we formulated our structural and reduce
 
 In **_"model_select.ipynb"_**, we evaluate the performance of our model with the 4 permutations of IVs.
 
-Finally, in **_"base.ipynb"_**, it shows the finalized model that will be used to estimate the demand function of fish.
+Finally, **_"base.ipynb"_** shows the finalized model that will be used to estimate the demand function of fish.
