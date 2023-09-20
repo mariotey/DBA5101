@@ -4,8 +4,8 @@ Firstly, we checked for missing data and ensured that all of them are in the rig
 
 We then explore our data by visualizing the distribution and proportion of our dataset in **_"data_explore.ipynb"_**.
 
-With a better understanding of the data, we formulated our structural and reduced form equation and decided that _"Mon"_,_"Tue"_,_"Wed"_ and _"Thu"_ should be our Exogenous variables. In **_"IV_test.ipynb"_**, we attempt to find potential IVs that are suitable for our regression model and narrowed down to 4 iterations of potential IV.
+With a better understanding of the data, we formulated our structural and reduced form equation and decided on our Exogenous variables. In **_"IV_test.ipynb"_**, we attempt to find potential IVs that are suitable for our regression model.
 
-In **_"model_select.ipynb"_**, we evaluate the performance of our model with the 4 iterations of IVs.
+In **_"model_select.ipynb"_**, we evaluate the performance of our various models.
 
-Finally, **_"base.ipynb"_** shows the finalized model that will be used to estimate the demand function of fish.
+Finally, **_"model_eval.ipynb"_** shows the finalized model that will be used to estimate the demand function of fish.
