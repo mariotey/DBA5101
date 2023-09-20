@@ -1,4 +1,4 @@
-In Project 1, we aim to estimate the demand function of fish using data on fish sales in **_"Data-GP1-1.csv"_**
+In Project 1, we aim to estimate the demand function of fish using data on fish sales in **_"Data-GP1-1.csv"_**.
 
 Firstly, we checked for missing data and ensured that all of them are in the right format. **_"data_cleaning.ipynb"_** details our data cleaning process which ultimately allows us to produce **_"Data-GP1-1(updated).csv"_**. This csv data will be used for our subsequent analysis.
 
