@@ -1,1 +1,10 @@
-Project 1/.ipynb_checkpoints/
+# Python bytecode files
+__pycache__/
+*.pyc
+*.cpython-310.pyc
+
+# Virtual environment
+venv/
+
+# Visual Studio Code settings
+.vscode/
